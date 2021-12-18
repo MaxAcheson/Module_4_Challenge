@@ -1,8 +1,0 @@
-    1  cd documents
-    2  cd school/challenges
-    3  ls
-    4  cd Module_4_Challenge
-    5  git status
-    6  git commit -m "Added changes to readme file."
-    7  git push origin main
-    8  history 50 > history.txt
