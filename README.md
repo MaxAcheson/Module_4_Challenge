@@ -7,7 +7,7 @@ This project uses algorithms to provide investment solutions for client’s reti
 This project utilizes python 3.7 and the pandas library. The project has been constructed in a Jupyter Lab notebook entitled `risk_return_analysis.ipynb`.
 
 
-# Installation Guide
+## Installation Guide
 To clone the repository to your computer, first make sure you are using python version 3.7 or greater by typing the following:
 
 `python -V`
@@ -18,11 +18,11 @@ Next, make sure pandas and Jupyter lab are installed as well by entering the fol
 
 `pip install jupyterlab`
 
-# Usage
+## Usage
 
 In order to view the analysis, navigate to the `risk_return_analysis.ipynb` notebook in the repository directory. If you cannot find the file, simply click [here](https://github.com/MaxAcheson/Module_4_Challenge/blob/main/Starter_Code/risk_return_analysis.ipynb) instead. If you would like to interact with the live version of the analysis, you may navigate to your cloned version of the repository in your terminal and run `jupyter lab`.
 
-# Contributors
+## Contributors
 
 Max Acheson
 
